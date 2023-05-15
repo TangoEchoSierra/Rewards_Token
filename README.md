@@ -1,3 +1,6 @@
+![header_photo](header_readme.png)
+
+
 # Rewardify
 
 <br />
