@@ -1,4 +1,4 @@
-![header_photo](header_readme.png)
+![header_photo](readme_header.png)
 
 
 # Rewardify
