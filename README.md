@@ -57,7 +57,7 @@ Take the user input from the form and use the given paremeters to create the sma
 
 ### Functionalities
 
-Transfer function - Allows users to send Starbucks tokens to other users. The fee setup for every transaction for this contract is 1% which directly goes to a fee collector contract.
+Transfer function - Allows users to send Starbucks tokens to other users. The fee setup for every transaction for this contract is 1% which directly goes to a fee collector address.
 
 Approve function - Allows users to approve other users to spend a specified amount of tokens on their behalf.
 
