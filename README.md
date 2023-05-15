@@ -50,7 +50,7 @@ By incentivizing purchases with the promise of rewards tokens, customers may be 
 
 ## How it works
 
-![flowchart](flowchart_final.png)
+![flowchart](flowchart_final.PNG)
 
 Program starts by receving the user input, in this example we have took companies information as Starbucks.
 
