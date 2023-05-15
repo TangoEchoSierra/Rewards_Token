@@ -50,9 +50,11 @@ By incentivizing purchases with the promise of rewards tokens, customers may be 
 
 ## How it works
 
-Program starts by receving the user input, in this example we have took companies inforamtion as starbucks.
+![flowchart](flowchart_final.png)
 
-***Google doc link***
+Program starts by receving the user input, in this example we have took companies information as Starbucks.
+
+https://docs.google.com/forms/d/1cBYhYKA44uSrmEUpDXQgKbJjXZbzfzjXGSXIZoLPCTc/edit
 
 ### Creation of smart contract
 
